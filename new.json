@@ -1,0 +1,15 @@
+[
+  {
+    "name": "asfodsh",
+    "profession": "Engineer",
+    "gender": "male"
+  },
+  {
+    "id": 1,
+    "name": "priya",
+    "age": 20,
+    "gender": "Female",
+    "department": "Science",
+    "car": "Honda"
+  }
+]

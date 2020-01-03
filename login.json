@@ -1,0 +1,26 @@
+[
+  {
+    "name": "aadil"
+  },
+  {
+    "name": "pagal si priya"
+  },
+  {
+    "name": "sunil"
+  },
+  {
+    "name": "sunil",
+    "age": 18
+  },
+  {
+    "name": "sunil",
+    "age": 18,
+    "profession": "student"
+  },
+  {
+    "name": "sunil",
+    "age": 18,
+    "profession": "student",
+    "language": "telgu"
+  }
+]

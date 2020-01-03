@@ -1,0 +1,55 @@
+[
+  {
+    "name": "asfodsh",
+    "profession": "Engineer",
+    "gender": "male"
+  },
+  {
+    "id": 1,
+    "name": "priya",
+    "age": 20,
+    "gender": "Female",
+    "department": "Science",
+    "car": "Honda"
+  },
+  {
+    "id": 1,
+    "name": "ravina",
+    "age": 20,
+    "gender": "Female",
+    "department": "Science",
+    "car": "Honda"
+  },
+  {
+    "id": 1,
+    "name": "ravina",
+    "age": 20,
+    "gender": "Female",
+    "department": "Science",
+    "car": "Honda"
+  },
+  {
+    "id": 1,
+    "name": "Prashant",
+    "age": 20,
+    "gender": "Female",
+    "department": "Science",
+    "car": "Honda"
+  },
+  {
+    "id": 1,
+    "name": "Prashant",
+    "age": 20,
+    "gender": "Female",
+    "department": "Science",
+    "car": "Honda"
+  },
+  {
+    "id": 1,
+    "name": "Sushant",
+    "age": 20,
+    "gender": "male",
+    "department": "Science",
+    "car": "Honda"
+  }
+]
